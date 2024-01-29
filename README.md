@@ -27,7 +27,8 @@ Using synonym feature of curly braces for content and title sample
 
 ```sh
 {Akashi|Pedia|Indonesia}
-{SEO Master is a {complete | comprehensive | all-encompassing | exhaustive} and user-friendly SEO toolkit designed to optimize your website's performance in {search engine | SEO} rankings. With {robust | powerful | advanced} features for {keyword | key phrase | search term} analysis, on-page optimization, and link building, SEO Master empowers users to enhance their online visibility, attract {organic | natural} traffic, and stay ahead in the {competitive | challenging} digital landscape. Elevate your SEO strategy with this {all-in-one | integrated | versatile | inclusive} solution for mastering search engine optimization}
+{SEO Master is a {complete|comprehensive|all-encompassing|exhaustive} and user-friendly SEO toolkit designed to optimize your websites performance in {search engine|SEO} rankings. With {robust|powerful|advanced
+features for {keyword|key phrase|search term} analysis, on-page optimization, and link building, SEO Master empowers users to enhance their online visibility, attract {organic|natural} traffic, and stay ahead in the {competitive|challenging} digital landscape. Elevate your SEO strategy with this {all-in-one|integrated|versatile|inclusive} solution for mastering search engine optimization}
 ```
 bash
 Copy code
