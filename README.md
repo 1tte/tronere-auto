@@ -1,5 +1,5 @@
 # AZUSA LINK BUILDING
-Welcome to Azusa Link Building Tools, your go-to solution for powerful and efficient link-building strategies. This collection of tools is designed to enhance your website's visibility, authority, and overall online presence. Whether you're a digital marketer, SEO professional, or website owner, Azusa provides the tools you need to elevate your link-building game.
+Welcome to Azusa Link Building Tools, your go-to solution for powerful and efficient link-building strategies. This collection of tools is designed to enhance your website's visibility, authority, and overall online presence. Whether you're a digital marketer, SEO professional, or website owner, Azusa provides the tools you need to elevate your link-building.
 
 ## Features
 `Advanced Link Building`
@@ -23,7 +23,7 @@ Azusa Link Building Tools are crafted to optimize link-building strategies, ensu
 
 Clone the Repository:
 
-Using synonym feature using curly braces sample
+Using synonym feature of curly braces for content and title sample
 
 ```sh
 {Akashi|Pedia|Indonesia}
