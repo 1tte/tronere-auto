@@ -51,10 +51,10 @@ https://www.newyorker.com/|user|passw0rd
 http://www.techcrunch.com/|tech|passw0rd
 ```
 
-###Contributing
+##Contributing
 We welcome contributions from the community. If you have ideas for improvements, new features, or bug fixes, please submit a pull request.
 
-###License
+##License
 Azusa Link Building Tools is licensed under the MIT License.
 
 ##Happy Link Building! 🚀
