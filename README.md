@@ -31,10 +31,10 @@ SEO Master is a {complete|comprehensive|all-encompassing|exhaustive} and user-fr
 to optimize your websites performance in {search engine|SEO} rankings. With {robust|powerful|advanced
 features for {keyword|key phrase|search term} analysis, on-page optimization, and link building, SEO Master
 empowers users to enhance their online visibility, attract {organic|natural} traffic, and stay ahead in the
-{competitive|challenging} digital landscape.
-Elevate your SEO strategy with this {all-in-one|integrated|versatile|inclusive}solution for mastering search engine optimization
+{competitive|challenging} digital landscape. Elevate your SEO strategy with this 
+{all-in-one|integrated|versatile|inclusive}solution for mastering search engine optimization
 ```
-bash
+
 Copy code
 ```sh
 git clone https://github.com/your-username/azusa-link-building-tools.git
